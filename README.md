@@ -42,7 +42,7 @@ Difficulty Levels
 Output Example
 * Solved Sudoku grid
 * Backtracking statistics
-## 🛠️ Technologies Used
+##Technologies Used
 
 * Python
 * CSP Algorithms (AC-3, Backtracking)
